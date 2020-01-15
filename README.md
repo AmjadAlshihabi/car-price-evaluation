@@ -1,10 +1,10 @@
 # Team01
+This project was forked from gitlab because the repo is private and we as student do not have the authority to make it public. There are 4 contributers to the project. I was in charge of data validation and data visualization. The code lines are labeled with the code owner.
 ## Team Memebers
 1. George Sarkisian
 2. Martin Stanchev
 3. Majed Dalain
 4. Amjad Alshihabi
-5. Mohammad derham
 
 ## Sprints
 ### Sprint1
